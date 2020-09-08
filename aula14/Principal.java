@@ -9,7 +9,7 @@ public class Principal {
 
         Gafanhoto g[] = new Gafanhoto[2];
         g[0] = new Gafanhoto("Jubilei", 22, "M", "juba");
-        g[1] = new Gafanhoto("Creuza", 12, "F", "creuzita");
+        g[1] = new Gafanhoto("Creuza", 12, "F", "creuzita")
 
         Visualizacao vis[] = new Visualizacao[5];
         vis[0] = new Visualizacao(g[0], v[2]);  // Jubileu assiste HTML5
